@@ -143,11 +143,11 @@ class GameLauncher:
     def launch_game(self, game_path):
         """Launch the selected game."""
         try:
-            # Get the current directory
-            current_dir = os.getcwd()
+            # Get the absolute path to the current script directory
+            script_dir = os.path.dirname(os.path.abspath(__file__))
             
             # Construct the full path to the game
-            full_path = os.path.join(current_dir, game_path)
+            full_path = os.path.join(script_dir, game_path)
             
             # Launch the game using Python
             print(f"Launching game: {full_path}")
