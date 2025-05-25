@@ -1,0 +1,79 @@
+[
+  {
+    "word": "python",
+    "cipher_text": "qzuipo",
+    "type": "caesar",
+    "difficulty": "easy",
+    "hint": "Caesar Shift: 1"
+  },
+  {
+    "word": "cipher",
+    "cipher_text": "flskhu",
+    "type": "caesar",
+    "difficulty": "medium",
+    "hint": "Caesar Shift: 3"
+  },
+  {
+    "word": "decode",
+    "cipher_text": "ijdpef",
+    "type": "caesar",
+    "difficulty": "hard",
+    "hint": "Caesar Shift: 5"
+  },
+  {
+    "word": "puzzle",
+    "cipher_text": "zleppu",
+    "type": "jumble",
+    "difficulty": "easy",
+    "hint": "Jumbled Word: First letter is p"
+  },
+  {
+    "word": "secret",
+    "cipher_text": "ctseer",
+    "type": "jumble",
+    "difficulty": "medium",
+    "hint": "Jumbled Word: All letters rearranged"
+  },
+  {
+    "word": "enigma",
+    "cipher_text": "gmniea",
+    "type": "jumble",
+    "difficulty": "hard",
+    "hint": "Jumbled Word: May contain an extra letter"
+  },
+  {
+    "word": "code",
+    "cipher_text": "-.-. --- -.. .",
+    "type": "morse",
+    "difficulty": "easy",
+    "hint": "Morse Code: Letters separated by spaces"
+  },
+  {
+    "word": "hack",
+    "cipher_text": ".... .- -.-. -.-",
+    "type": "morse",
+    "difficulty": "medium",
+    "hint": "Morse Code: Letters separated by spaces"
+  },
+  {
+    "word": "binary",
+    "cipher_text": "01100010 01101001 01101110 01100001 01110010 01111001",
+    "type": "binary",
+    "difficulty": "easy",
+    "hint": "Binary Code: Each letter is 8 bits"
+  },
+  {
+    "word": "matrix",
+    "cipher_text": "011011010110000101110100011100100110100101111000",
+    "type": "binary",
+    "difficulty": "medium",
+    "hint": "Binary Code: 8 bits per letter, no spaces"
+  },
+  {
+    "word": "crypto",
+    "cipher_text": "637279707468",
+    "type": "binary",
+    "difficulty": "hard",
+    "hint": "Hexadecimal Code"
+  }
+]

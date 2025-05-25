@@ -1,0 +1,53 @@
+[
+  {
+    "type": "sequence",
+    "question": "What comes next in this sequence?",
+    "sequence": [1, 4, 9, 16, 25],
+    "options": [36, 30, 49, 64],
+    "answer": 36
+  },
+  {
+    "type": "sequence",
+    "question": "What comes next in this sequence?",
+    "sequence": [2, 6, 12, 20, 30],
+    "options": [42, 40, 36, 48],
+    "answer": 42
+  },
+  {
+    "type": "sequence",
+    "question": "What comes next in this sequence?",
+    "sequence": [3, 7, 15, 31, 63],
+    "options": [127, 95, 111, 120],
+    "answer": 127
+  },
+  {
+    "type": "number",
+    "question": "If 2♦3 = 13 and 4♦5 = 41, then 6♦7 = ?",
+    "options": [85, 76, 67, 94],
+    "answer": 85
+  },
+  {
+    "type": "grid",
+    "question": "If 2 * 3 = 8 and 4 * 5 = 32, then 6 * 7 = ?",
+    "options": [72, 84, 96, 108],
+    "answer": 96
+  },
+  {
+    "type": "odd_one",
+    "question": "Which pattern doesn't belong with the others?",
+    "options": ["AB", "CD", "EF", "GI"],
+    "answer": 3
+  },
+  {
+    "type": "number",
+    "question": "If 1=3, 2=6, 3=9, 4=12, then 5=?",
+    "options": [15, 10, 20, 25],
+    "answer": 15
+  },
+  {
+    "type": "sequence",
+    "question": "What comes next? 1, 8, 27, 64, ?",
+    "options": [125, 100, 121, 144],
+    "answer": 125
+  }
+]

@@ -1,0 +1,5 @@
+pygame==2.5.2
+numpy==1.26.3
+pillow==10.1.0
+pyyaml==6.0.1
+colorama==0.4.6

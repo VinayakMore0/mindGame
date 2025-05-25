@@ -1,0 +1,24 @@
+{
+    "audio": {
+        "music_volume": 0.7,
+        "sfx_volume": 0.8,
+        "music_enabled": true,
+        "sfx_enabled": true
+    },
+    "display": {
+        "fullscreen": false,
+        "show_fps": false,
+        "animations_enabled": true
+    },
+    "gameplay": {
+        "default_difficulty": "medium",
+        "default_cipher": null,
+        "show_tutorial_on_start": true,
+        "player_name": "Player"
+    },
+    "controls": {
+        "submit_answer": "RETURN",
+        "use_hint": "H",
+        "pause_game": "ESCAPE"
+    }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "type": "sequence",
+    "question": "What comes next in this sequence?",
+    "sequence": [1, 1, 2, 3, 5],
+    "options": [8, 7, 6, 9],
+    "answer": 8
+  },
+  {
+    "type": "sequence",
+    "question": "What comes next in this sequence?",
+    "sequence": [2, 6, 12, 20, 30],
+    "options": [42, 40, 36, 48],
+    "answer": 42
+  },
+  {
+    "type": "sequence",
+    "question": "What comes next in this sequence?",
+    "sequence": [3, 4, 7, 11, 18],
+    "options": [29, 25, 27, 32],
+    "answer": 29
+  },
+  {
+    "type": "number",
+    "question": "If 3 × 4 = 18 and 5 × 2 = 15, then 6 × 7 = ?",
+    "options": [42, 48, 54, 60],
+    "answer": 54
+  },
+  {
+    "type": "number",
+    "question": "Which number doesn't follow the pattern?",
+    "options": [16, 25, 36, 48],
+    "answer": 48
+  },
+  {
+    "type": "grid",
+    "question": "If A = 1, B = 4, C = 9, then D = ?",
+    "options": [16, 13, 12, 15],
+    "answer": 16
+  },
+  {
+    "type": "odd_one",
+    "question": "Which number doesn't belong with the others?",
+    "options": [12, 15, 18, 21],
+    "answer": 15
+  },
+  {
+    "type": "number",
+    "question": "Complete the pattern: 2, 6, 12, 20, ?",
+    "options": [30, 28, 32, 36],
+    "answer": 30
+  }
+]
